@@ -49,3 +49,6 @@ describe("css/paint.css", () => {
     expect(fileData.size, hint).to.eq(1411);
   });
 });
+
+
+
